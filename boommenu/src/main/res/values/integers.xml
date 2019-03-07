@@ -1,0 +1,32 @@
+<resources>
+
+
+    <integer name="default_bmb_button_enum">-1</integer>
+
+
+
+    <integer name="default_bmb_pieceEnum">-1</integer>
+
+    <integer name="default_bmb_showDuration">500</integer>
+    <integer name="default_bmb_showDelay">100</integer>
+    <integer name="default_bmb_hideDuration">500</integer>
+    <integer name="default_bmb_hideDelay">100</integer>
+
+    <integer name="default_bmb_orderEnum">2</integer>
+    <integer name="default_bmb_frames">60</integer>
+    <integer name="default_bmb_boomEnum">6</integer>
+    <integer name="default_bmb_showMoveEaseEnum">22</integer>
+    <integer name="default_bmb_showScaleEaseEnum">22</integer>
+    <integer name="default_bmb_showRotateEaseEnum">22</integer>
+    <integer name="default_bmb_hideMoveEaseEnum">21</integer>
+    <integer name="default_bmb_hideScaleEaseEnum">21</integer>
+    <integer name="default_bmb_hideRotateEaseEnum">21</integer>
+    <integer name="default_bmb_rotateDegree">720</integer>
+
+    <!--Boom Button-->
+    <integer name="default_bmb_buttonPlaceEnum">-1</integer>
+    <integer name="default_bmb_buttonPlaceAlignmentEnum">0</integer>
+
+
+
+</resources>

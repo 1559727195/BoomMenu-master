@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="default_bmb_shadow_color">#88757575</color>
+    <color name="default_bmb_normal_color">#FF4081</color>
+    <color name="default_bmb_highlighted_color">#00000000</color>
+    <color name="default_bmb_unable_color">#00000000</color>
+    <color name="default_bmb_shareLine1Color">#ffffffff</color>
+    <color name="default_bmb_shareLine2Color">#ffffffff</color>
+    <!--Animation-->
+    <color name="default_bmb_dimColor">#55000000</color>
+
+</resources>

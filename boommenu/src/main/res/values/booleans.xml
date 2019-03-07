@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Basic-->
+    <bool name="default_bmb_cacheOptimization">true</bool>
+    <bool name="default_bmb_boomInWholeScreen">true</bool>
+    <bool name="default_bmb_inList">false</bool>
+    <bool name="default_bmb_inFragment">false</bool>
+
+    <!--Shadow-->
+    <bool name="default_bmb_shadow_effect">true</bool>
+    <bool name="default_bmb_background_effect">true</bool>
+    <bool name="default_bmb_ripple_effect">true</bool>
+    <bool name="default_bmb_cancelable">true</bool>
+    <bool name="default_bmb_autoHide">true</bool>
+</resources>
